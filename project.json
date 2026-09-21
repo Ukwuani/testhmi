@@ -1,0 +1,7 @@
+{
+  "title": "TestHMI",
+  "description": "TestHMI",
+  "enabled": true,
+  "inheritable": false,
+  "parent": ""
+}

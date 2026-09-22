@@ -1,1 +1,1 @@
-print "Hello world to the ones"
+print "Hello world to "

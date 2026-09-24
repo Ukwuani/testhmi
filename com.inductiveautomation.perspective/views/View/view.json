@@ -9,10 +9,10 @@
           "name": "Gauge"
         },
         "position": {
-          "height": 175,
-          "width": 300,
-          "x": 254,
-          "y": 135
+          "height": 247,
+          "width": 371,
+          "x": 183,
+          "y": 63
         },
         "props": {
           "backgroundColor": "",
@@ -49,13 +49,18 @@
             ],
             "show": true,
             "width": 1
-          }
+          },
+          "value": 40
         },
         "type": "ia.chart.gauge"
       }
     ],
     "meta": {
       "name": "root"
+    },
+    "position": {
+      "x": -20,
+      "y": 100
     },
     "type": "ia.container.coord"
   }

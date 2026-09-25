@@ -1,1 +1,1 @@
-print "Hello world ffd"
+print "Hello world"

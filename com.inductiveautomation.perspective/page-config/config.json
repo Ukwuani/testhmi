@@ -3,6 +3,10 @@
     "/": {
       "title": "Table",
       "viewPath": "View"
+    },
+    "/new-page": {
+      "title": "",
+      "viewPath": ""
     }
   },
   "sharedDocks": {

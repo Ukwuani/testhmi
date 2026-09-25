@@ -4,13 +4,13 @@
   "restricted": false,
   "overridable": true,
   "files": [
-    "config.json"
+    "style.json"
   ],
   "attributes": {
-    "lastModificationSignature": "398cd04f4c3adcd731cdc454bdf77e8e611a207f9473c937ba8c5139c7136d71",
+    "lastModificationSignature": "e4baef8372775787292aabdb414410b6fa356250459fcf47afa3174e8f31890f",
     "lastModification": {
       "actor": "UBarnabasDev",
-      "timestamp": "2026-09-25T04:22:09Z"
+      "timestamp": "2026-09-25T04:22:21Z"
     }
   }
 }

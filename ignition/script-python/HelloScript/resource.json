@@ -1,0 +1,17 @@
+{
+  "scope": "A",
+  "version": 1,
+  "restricted": false,
+  "overridable": true,
+  "files": [
+    "code.py"
+  ],
+  "attributes": {
+    "hintScope": 2,
+    "lastModificationSignature": "6c9e43450451b6981813bebba897ba38eee1afb3f08be2ba4dd308e05e782be9",
+    "lastModification": {
+      "actor": "UBarnabasDev",
+      "timestamp": "2026-09-26T19:05:05Z"
+    }
+  }
+}
